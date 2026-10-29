@@ -16,7 +16,7 @@ Last updated: 2026-10-29
 
 ## 2. Definitions
 
-- "Software" means the GameGlass desktop application, the GameGlass companion apps for phones and tablets, any web interface served by the desktop application on your local network and used through a web browser, and any updates, documentation and related files we provide, in any distribution format.
+- "Software" means the GameGlass desktop application ("GameGlass Hub"), the GameGlass companion apps for phones and tablets, any web interface served by the desktop application on your local network and used through a web browser, and any updates, documentation and related files we provide, in any distribution format.
 - "Online Services" means the services we host online, including app.gameglass.gg, forge.gameglass.gg, the GameGlass API, account and sync services, and any other service we operate under the gameglass.gg domain.
 - "Paid Features" means features or content available only with a paid subscription or purchase.
 - "Shards" means control panel layouts and related content that can be created, shared or downloaded through the Software.
