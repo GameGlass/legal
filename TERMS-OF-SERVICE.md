@@ -36,7 +36,7 @@ Last updated: 2026-10-29
 
 4.2 **Free trial.** Each new account gets a free 14-day trial of all Paid Features included in the subscription. You do not need to give payment details for the trial. When it ends, your account moves to the Basic plan unless you buy a paid plan. One trial is available per person, and we may refuse or end a trial that we reasonably believe is being abused.
 
-4.3 **Ads.** The Basic plan and the free trial show ads. Monthly, Yearly and Lifetime plans do not. Ads in GameGlass are never personalized: we do not use your personal information to choose which ads you see.
+4.3 **Ads.** On the Basic plan and during the free trial, GameGlass Hub shows ads. Monthly, Yearly and Lifetime plans do not. Ads are provided by Overwolf and its advertising partners. We do not give them your account information, but they may collect device and usage information to show and measure ads, as described in our Privacy Policy and in Overwolf's own privacy policy.
 
 ## 5. Payments and subscriptions
 
