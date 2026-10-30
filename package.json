@@ -1,0 +1,25 @@
+{
+  "name": "@gameglass/init",
+  "version": "1.0.0",
+  "description": "GameGlass legal documents",
+  "homepage": "https://github.com/GameGlass/legal#readme",
+  "bugs": {
+    "url": "https://github.com/GameGlass/legal/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GameGlass/legal.git"
+  },
+  "license": "",
+  "author": "GameGlass",
+  "scripts": {},
+  "bin": {
+    "third-party-notices": "scripts/third-party/notices.mjs"
+  },
+  "files": [
+    "scripts/third-party"
+  ],
+  "engines": {
+    "node": ">=20"
+  }
+}

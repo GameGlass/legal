@@ -1,4 +1,4 @@
-# GameGlass Terms of Service
+# Terms of Service
 
 ## 1. Agreement and related terms
 

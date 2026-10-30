@@ -1,4 +1,4 @@
-# GameGlass End User License Agreement
+# End User License Agreement
 
 ## 1. Agreement and related terms
 
@@ -106,7 +106,7 @@ Last updated: 2026-10-29
 
 7.1 The Software includes Third-Party Components. Each is licensed to you under its own license, not this EULA.
 
-7.2 A list of Third-Party Components and their licenses is included with the Software and available at [gameglass.gg/legal/third-party](https://gameglass.gg/legal/third-party).
+7.2 A list of Third-Party Components and their licenses is included with the Software.
 
 7.3 If a Third-Party Component's license gives you rights this EULA would otherwise restrict (for example, the right to replace or modify an LGPL-licensed library and to reverse engineer for debugging those changes), that license's terms apply to that component.
 
