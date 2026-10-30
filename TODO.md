@@ -58,3 +58,4 @@ Things to do outside the documents before (or when) publishing the new EULA, Ter
 - [ ] **Before turning on PostHog session recording**: update the Privacy Policy (what is recorded, 30-day retention) and mask sensitive inputs.
 - [ ] **EU and UK GDPR representative** (GDPR Article 27, UK GDPR Article 27): deferred for now.
 - [ ] **Shard credits**: when crediting original creators on remixes ships, consider updating Terms of Service 7.4.
+- [ ] **License Action**: Use [license checker](https://github.com/marketplace/actions/license-checker-action) for all active builds across gameglass repos
